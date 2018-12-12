@@ -1,0 +1,32 @@
+.logo {
+    background-image: url('/images/sponsorship.png');
+    background-repeat: no-repeat;
+    height: 26rem;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo h1, .logo p {
+    text-align: center;
+    color: rgb(112, 192, 212);
+}
+
+.logo h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 0.15rem;
+    background-color: rgba(225, 225, 225, 0.8);
+    margin: 0 24rem 2rem 24rem;
+    padding: 1rem;
+}
+
+.logo p {
+    font-size: 1.7rem;
+    letter-spacing: 0.1rem;
+    background-color: rgba(225, 225, 225, 0.8);
+    margin: 0;
+    padding: 0.7rem;
+}
